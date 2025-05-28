@@ -1,0 +1,32 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+}
+
+.slogam {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #e92929;
+    text-align: center;
+    margin: 20px 0;
+}
+
+.titulo{
+    font-size: 2rem;
+    font-weight: bold;
+    color: #333;
+    text-align: center;
+    margin: 20px 0;
+}
+
+.rodape{
+    padding: 24px;
+    color: #ffffff;
+    background-color:  #1c6d30;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif ;
+    font-size: 1.5remf;
+    font-weight: 400;
+}
